@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Search Without HTML Tags
+Plugin Name: Search Ignore HTML Tags
 Description: Updated the native search to ignore html tags.
 Version: 1.0
 Author: Pramod Sivadas
